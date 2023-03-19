@@ -1,0 +1,18 @@
+[
+  {
+    "id": "300",
+    "profileId": "100",
+    "tasks_number": "1234567891234",
+    "jobs": [
+      {
+        "job_number": "1234555",
+        "type": "WORK",
+        "level": "u1",
+        "start_date": "2023-09",
+        "end_date": "2025-09"
+      }
+    ],
+    "start_date": "2023-09",
+    "end_date": "2025-09"
+  }
+]

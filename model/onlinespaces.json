@@ -1,0 +1,20 @@
+[
+  {
+    "id": "200",
+    "profileId": "100",
+    "admin": [
+      {
+        "email": "admin@gmail.com",
+        "office_id": "stringstri",
+        "need_reset": false
+      }
+    ],
+    "name": "Onlinespace name",
+    "level": "u1",
+    "uniquework_name": {
+      "name": "u1_aod",
+      "display": "onlinespace name",
+      "description": "Job work"
+    }
+  }
+]
